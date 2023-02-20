@@ -1,28 +1,29 @@
 {
   "files": {
-    "main.css": "/guap-raspisanie/static/css/main.f53a8289.css",
-    "main.js": "/guap-raspisanie/static/js/main.1af60e24.js",
+    "main.css": "/guap-raspisanie/static/css/main.a888b2c4.css",
+    "main.js": "/guap-raspisanie/static/js/main.1e19a62c.js",
     "static/js/787.d3b57c30.chunk.js": "/guap-raspisanie/static/js/787.d3b57c30.chunk.js",
     "static/media/background.jpg": "/guap-raspisanie/static/media/background.7049f4636fdfd2796de6.jpg",
-    "static/media/logo-long.svg": "/guap-raspisanie/static/media/logo-long.353584a367d4de4b63ff0f93a238a4d4.svg",
+    "static/media/logo-long.svg": "/guap-raspisanie/static/media/logo-long.dad69a71e29705e48130194bef5fada9.svg",
+    "static/media/group.svg": "/guap-raspisanie/static/media/group.f39dd74e2ce1a26f509cbd892100f5c1.svg",
     "static/media/guap-logo.svg": "/guap-raspisanie/static/media/guap-logo.73891470ffb70d51376c0d9b198abc2e.svg",
-    "static/media/LR.svg": "/guap-raspisanie/static/media/LR.c2da7fe2b9e19efd9a477b3f372b6cba.svg",
-    "static/media/build.svg": "/guap-raspisanie/static/media/build.49e2b3cc1c252ea25127117de45fc4ea.svg",
-    "static/media/person.svg": "/guap-raspisanie/static/media/person.495774d9370b8de5e15d65e936c51e44.svg",
-    "static/media/KR.svg": "/guap-raspisanie/static/media/KR.526ce75f74de27864032e0a2c60b0911.svg",
-    "static/media/clock.svg": "/guap-raspisanie/static/media/clock.8d4783758156cb7b7424f3b04e167743.svg",
-    "static/media/PR.svg": "/guap-raspisanie/static/media/PR.dda9cf29c9c234e8183696e2aba24b97.svg",
-    "static/media/calendar.svg": "/guap-raspisanie/static/media/calendar.70b0b129ed5d9924efa71946cf2dd7b1.svg",
-    "static/media/L.svg": "/guap-raspisanie/static/media/L.0cb04420a19379de69951c0a54e69b05.svg",
+    "static/media/LR.svg": "/guap-raspisanie/static/media/LR.0f3da3068bb54a3c5a80486cf2f5f041.svg",
+    "static/media/build.svg": "/guap-raspisanie/static/media/build.039f2c640a6398c34fe3049ec6114e04.svg",
+    "static/media/person.svg": "/guap-raspisanie/static/media/person.98244ed42478acd592e874fa1ea442ff.svg",
+    "static/media/KR.svg": "/guap-raspisanie/static/media/KR.a420ef02f66698ad49cf7c1107c5c930.svg",
+    "static/media/clock.svg": "/guap-raspisanie/static/media/clock.9cc8eb868dd1ea19c304bf5a2e76019f.svg",
+    "static/media/calendar.svg": "/guap-raspisanie/static/media/calendar.6d8cdb68e4cc6217ebadd651ed899d52.svg",
+    "static/media/PR.svg": "/guap-raspisanie/static/media/PR.93109845d6aade2acfe49b4f6faeb704.svg",
+    "static/media/L.svg": "/guap-raspisanie/static/media/L.a4ef6e13b6497acad35b7baed97c763b.svg",
     "index.html": "/guap-raspisanie/index.html",
-    "static/media/low.svg": "/guap-raspisanie/static/media/low.56fb94d9c600a63fa0b676cc134efd0d.svg",
-    "static/media/up.svg": "/guap-raspisanie/static/media/up.74bec83a6c9147a3d25c8c248045047b.svg",
-    "main.f53a8289.css.map": "/guap-raspisanie/static/css/main.f53a8289.css.map",
-    "main.1af60e24.js.map": "/guap-raspisanie/static/js/main.1af60e24.js.map",
+    "static/media/low.svg": "/guap-raspisanie/static/media/low.9d0fc3ed4674e287865238665b776997.svg",
+    "static/media/up.svg": "/guap-raspisanie/static/media/up.6e0fa188c7545e11a1971b8e44afc804.svg",
+    "main.a888b2c4.css.map": "/guap-raspisanie/static/css/main.a888b2c4.css.map",
+    "main.1e19a62c.js.map": "/guap-raspisanie/static/js/main.1e19a62c.js.map",
     "787.d3b57c30.chunk.js.map": "/guap-raspisanie/static/js/787.d3b57c30.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f53a8289.css",
-    "static/js/main.1af60e24.js"
+    "static/css/main.a888b2c4.css",
+    "static/js/main.1e19a62c.js"
   ]
 }
